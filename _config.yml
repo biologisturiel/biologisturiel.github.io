@@ -85,7 +85,6 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Lima, PE"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "urieltorreszevallos@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Uriel-Torres-Zevallos"
   uri              :
@@ -98,14 +97,13 @@ author:
   github           : "biologisturiel"
   google_plus      :
   keybase          : 
-  instagram        : "@biologisturiel"
+  instagram        : "biologisturiel"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-0804-5700"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/10107474/biologistzev"
   steam            :
   tumblr           :
   twitter          : "@biologisturiel"
